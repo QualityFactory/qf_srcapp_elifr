@@ -14,7 +14,7 @@
  *
  */
 
-package br.com.qualityfactory.el.elifr.service.transaction.enums;
+package br.com.qualityfactory.el.elifr.vo.enums;
 
 public enum EnumMessageType {
 	SUCCESS, ERROR, WARNING, ALERT;

@@ -1,4 +1,4 @@
-package br.com.qualityfactory.el.elifr.service.transaction.session;
+package br.com.qualityfactory.el.elifr.service.session;
 
 /**
  * Service que manterá a segurança para as sessões de todas as camadas

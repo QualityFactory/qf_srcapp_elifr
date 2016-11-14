@@ -1,6 +1,6 @@
-package br.com.qualityfactory.el.elifr.service.transaction;
+package br.com.qualityfactory.el.elifr.vo;
 
-import br.com.qualityfactory.el.elifr.service.transaction.enums.EnumMessageType;
+import br.com.qualityfactory.el.elifr.vo.enums.EnumMessageType;
 import lombok.Data;
 
 /**

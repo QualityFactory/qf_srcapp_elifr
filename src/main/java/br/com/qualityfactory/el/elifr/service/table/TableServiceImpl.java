@@ -5,7 +5,7 @@
  *
  */
 
-package br.com.qualityfactory.el.elifr.service.database.table;
+package br.com.qualityfactory.el.elifr.service.table;
 
 import java.util.Collection;
 

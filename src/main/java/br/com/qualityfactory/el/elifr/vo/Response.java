@@ -1,4 +1,4 @@
-package br.com.qualityfactory.el.elifr.service.transaction;
+package br.com.qualityfactory.el.elifr.vo;
 
 import java.io.Serializable;
 

@@ -5,10 +5,10 @@
  *
  */
 
-package br.com.qualityfactory.el.elifr.service.transaction.request;
+package br.com.qualityfactory.el.elifr.vo.request;
 
 import br.com.qualityfactory.el.elifr.domain.Codest;
-import br.com.qualityfactory.el.elifr.service.transaction.Token;
+import br.com.qualityfactory.el.elifr.vo.Token;
 import lombok.Data;
 
 @Data
