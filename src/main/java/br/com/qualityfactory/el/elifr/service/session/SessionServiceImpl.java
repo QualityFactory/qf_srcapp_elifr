@@ -5,6 +5,6 @@ package br.com.qualityfactory.el.elifr.service.session;
  * @author eduardodicarte
  *
  */
-class SessionServiceImpl {
+class SessionServiceImpl implements SessionService {
 
 }

@@ -14,6 +14,14 @@ import br.com.qualityfactory.el.elifr.exception.ArchitectureELException;
 import br.com.qualityfactory.el.elifr.exception.DataBaseELException;
 
 public interface TableService {
+	
+	/**
+	 * Instancia do Service
+	 * @return Retorna a implementação do service
+	 */
+	public default TableService getInstance() {
+		return new TableServiceImpl();
+	}
 
 	/**
 	 * Recupera todos os registros no banco de dados da entidade passada via
