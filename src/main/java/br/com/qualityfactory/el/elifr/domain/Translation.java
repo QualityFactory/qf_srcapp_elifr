@@ -8,11 +8,11 @@ import lombok.EqualsAndHashCode;
 
 @Data
 @EqualsAndHashCode
-@Entity(tableName = "codest", schemaName = "el")
-public class Codest implements Model {
+@Entity(tableName = "translation", schemaName = "el")
+public class Translation implements Model{
 
-	private static final long serialVersionUID = -2084310855273559587L;
-
+	private static final long serialVersionUID = -632609840492157641L;
+	
 	@Id
 	private Short id;
 	
@@ -20,5 +20,5 @@ public class Codest implements Model {
 	private String code;
 	
 	@Column
-	private String tableName;
+	private String val;
 }
